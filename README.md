@@ -34,3 +34,9 @@ This viewer helps you stay in control of what gets seen.
 ## 🧠 Inspired by...
 
 The iOS Photos app — but stricter. Because some people just can't resist swiping.
+
+---
+
+## 💻 Created with AI?
+
+Absolutely — 99.999% written by ChatGPT (the remaining 0.001% was just me hitting Enter).
