@@ -1,4 +1,4 @@
-# OnlyShowThis
+# JustThisPic
 
 A SwiftUI-based photo viewer that displays **only the photo(s) you want** — and nothing more.  
 No swiping, no distractions, no surprises.
